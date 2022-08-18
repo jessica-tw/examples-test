@@ -1,0 +1,12 @@
+applied_templates:
+- inputs: {}
+  template_data_path: ''
+- inputs:
+    any_list:
+    - item1
+    any_number: 10
+    example: any text
+  template_data_path: examples-test/typscript-plugin
+global_computed_inputs: {}
+global_inputs: {}
+stack_type: app
